@@ -1,0 +1,9 @@
+br\imd\ufrn\web2\ManagerBeans\ChefeManagerBean.class
+br\imd\ufrn\web2\aula10\Chefe.class
+br\imd\ufrn\web2\aula10\Departamento.class
+DAO\DepartamentoDAO.class
+DAO\ChefeDAO.class
+br\imd\ufrn\web2\ManagerBeans\FuncionarioManagerBean.class
+DAO\FuncionarioDAO.class
+br\imd\ufrn\web2\ManagerBeans\DepartamentoManagerBean.class
+br\imd\ufrn\web2\aula10\Funcionario.class
