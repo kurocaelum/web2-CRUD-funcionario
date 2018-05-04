@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    
+    <!--TODO (1)Bean conectar POJOs com DAOs; (2)Listar objs dos DAOs;-->
+    
+    <h:head>
+        <title>Aula 10 - Departamento</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </h:head>
+    <h:body>
+        <h1>Cadastrar Departamento</h1> <br/>
+        <h:form>
+            Nome: <h:inputText value="#{departamento.nome}"/> <br/>
+            Chefe: <h:inputText value="#{departamento.chefe}"/> <br/>
+        </h:form>
+        <br/> <br/>
+        <h:link value="Home" outcome="index"></h:link>
+    </h:body>
+</html>

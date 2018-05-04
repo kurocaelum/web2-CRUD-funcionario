@@ -1,1 +1,2 @@
-# web2-CRUD-funcionario
+# web2-aula10
+Projeto Funcionário (no NetBeans)
